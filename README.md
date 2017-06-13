@@ -9,5 +9,6 @@
     An image (preferably of you, but not required).
     Any software packages/tools that you either find helpful or would like to learn.
     
-That's it.  Easy as pie!
+That's it.  Easy as Pie/Pi!
 
+![image](https://user-images.githubusercontent.com/1259252/27108348-3986b558-5062-11e7-82a2-fc1579e433ac.png)
