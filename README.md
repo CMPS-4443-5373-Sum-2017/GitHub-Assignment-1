@@ -9,6 +9,8 @@
    2)  An image (preferably of you, but not required).  
    3)  Any software packages/tools that you either find helpful or would like to learn.
     
+There are several YouTube videos on editing readme files and adding images.  Here is one:  https://www.youtube.com/watch?v=hHbWF1Bvgf4 
+
 That's it.  Easy as Pie/Pi!
 
 ![](Pi.JPG)
