@@ -5,7 +5,7 @@
 3.  Check the box that says: "Add a README.md file"
 4.  Edit the README.md to include the following information:
 
-      1)  Your first and last name __emphasized with bold or italics__.  
+      1\)  Your first and last name __emphasized with bold or italics__.  
       2)  An image (preferably of you, but not required).  
       3)  Any software packages/tools that you either find helpful or would like to learn.
     
