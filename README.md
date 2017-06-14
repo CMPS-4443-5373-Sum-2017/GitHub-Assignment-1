@@ -11,6 +11,8 @@
     
 There are several YouTube videos on editing readme files and adding images.  Here is one:  https://www.youtube.com/watch?v=hHbWF1Bvgf4 
 
+5.  Make me a contributor to your new repository (in repo settings, add tjohnsonMSU)
+
 That's it.  Easy as Pie/Pi!
 
 ![Pie/Pi Picture](Pi.JPG)
