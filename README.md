@@ -7,7 +7,7 @@
 
       1\)  Your first and last name __emphasized with bold or italics__.  
       2)  An image (preferably of you, but not required).  
-      3)  Any software packages/tools that you either find helpful or would like to learn.
+      3)  Any software packages/tools that you either a) find helpful or b) would like to learn.
     
 There are several YouTube videos on editing readme files and adding images.  Here is one:  https://www.youtube.com/watch?v=hHbWF1Bvgf4 
 
